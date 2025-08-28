@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luis-f-cerda-p&label=Profile%20views&color=0e75b6&style=flat" alt="luis-f-cerda-p" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis-f-cerda-p&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=15" alt="luis-f-cerda-p" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [**my personal site**](https://luis-f-cerda-p.dev)
 
