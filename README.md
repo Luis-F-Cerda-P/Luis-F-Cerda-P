@@ -34,7 +34,7 @@ Currently based in Santiago, Chile. Open to remote and hybrid opportunities.
 
 [luis-f-cerda-p.dev](https://luis-f-cerda-p.dev) · [LinkedIn](https://www.linkedin.com/in/luis-f-cerda-p/) · [luis.f.cerda.p@gmail.com](mailto:luis.f.cerda.p@gmail.com)
 
-[Resume (English)](https://luis-f-cerda-p.dev/assets/files/CV_English_Luis-F-Cerda-P_2026.pdf) · C2 English · Native Spanish
+[Resume (English)](https://luis-f-cerda-p.dev/assets/files/CV_English_Luis-F-Cerda_2026.pdf) · C2 English · Native Spanish
 
 ---
 
